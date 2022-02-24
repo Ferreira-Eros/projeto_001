@@ -1,0 +1,19 @@
+Git:
+  -n1 : Compartilhae versiona códigos.
+
+Github :
+  -n1 : Armazena os códigos.
+
+Comandos:
+
+git init - primeiro comando.
+
+git status - relatório sobre os documentos da pasta. Se ta ou não no controle de versão ou se foi atualizado.
+
+git add "" / . - "" adiciona um espécifico/ adiciona todos .
+
+git commit -m"" - Falar o que foi feito no código. primeiro commit é o 'commit inicial' gera versão.
+
+git push - upa o arquivo pro reposítorio o qual eu escolhi.
+
+git remote origin <URL> - para destacar o link antes do push.
