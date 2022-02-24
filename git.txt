@@ -23,3 +23,12 @@ Ciclo de atualização de códigos:
 Usa-se o commit para fazer o ciclo de atualização.
 
 Git commit-m "" - Escrevo qual atualização eu fiz . EX: "Cadastro de usuário".
+
+Ver Histórico de atualizações:
+
+Git reflog - A versão atual sempre vai ser a versão do topo.
+
+Navegando entre versões do código - Localmente:
+Pra fazer isso usa-se o N-ID da versão que você que voltar : Lembrando que pra ver o código Git reflog
+
+Git reset --hard ....
