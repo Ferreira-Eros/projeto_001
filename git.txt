@@ -17,3 +17,9 @@ git commit -m"" - Falar o que foi feito no código. primeiro commit é o 'commit
 git push - upa o arquivo pro reposítorio o qual eu escolhi.
 
 git remote origin <URL> - para destacar o link antes do push.
+
+Ciclo de atualização de códigos:
+
+Usa-se o commit para fazer o ciclo de atualização.
+
+Git commit-m "" - Escrevo qual atualização eu fiz . EX: "Cadastro de usuário".
