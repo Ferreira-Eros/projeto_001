@@ -50,3 +50,10 @@ União de códigos;
 Entrar na branch que eu quero unir os códigos
 git pull - Trás as atualizações do global pro local.
 git merge ... utilizando o nome da branch que eu quero as informações
+
+Ignorando arquvios.
+
+touch .gitigonore
+
+adiciono o nome do arquivo que não quero que seja adicionado.
+Ex: Fotos.png 
